@@ -1,0 +1,1 @@
+I have built a ML model based on insurance dataset . I have used four regression algorithms - Linear regression , randomforestregressor,gradinetbosstingregression,svregressor .Out of which gradientboostingregressor has shown least error while testing.So i build model using GR.
